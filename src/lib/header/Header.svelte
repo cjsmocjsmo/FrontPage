@@ -1,5 +1,6 @@
 <script>
 	import { page } from '$app/stores';
+	// import test from '/'
 	// import logo from './svelte-logo.svg';
 </script>
 
@@ -16,7 +17,7 @@
 		</svg>
 		<ul>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
-			<!-- <li class:active={$page.path === '/video'}><a sveltekit:prefetch href="/https://tripvids2.pages.dev/">Video</a></li> -->
+			<!-- <li class:active={$page.path === '/testit'}><a sveltekit:prefetch href="/testit">Test</a></li> -->
 			<!-- https://tripvids2.pages.dev/ -->
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
