@@ -1,12 +1,7 @@
 <script>
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
-	import lazyload from 'vanilla-lazyload';
-	import { browser } from '$app/env';
-
-	if (browser && !document.lazyloadInstance) {
-		document.lazyloadInstance = new lazyload();
-	}
+	
 </script>
 
 <Header />
