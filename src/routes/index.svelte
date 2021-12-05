@@ -15,7 +15,7 @@
 	
 	<a href="https://dadsvelte.pages.dev/" ><img class="foo" src={D1} alt="fuckit" /></a>
 	
-	<a href="https://tobisvelte.pages.dev/" ><img class="foo" src={P4} alt="fuckit" /></a>
+	<a href="https://tobiastro.pages.dev/" ><img class="foo" src={P4} alt="fuckit" /></a>
 	
 <!-- </div>
 <div class="bar"> -->
